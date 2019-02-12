@@ -1,0 +1,4 @@
+dok:dog
+cat:cak
+cak:cat
+dog:dok
